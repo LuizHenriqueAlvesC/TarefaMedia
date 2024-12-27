@@ -5,7 +5,7 @@ public class Main {
 
     private static void operacaoMedias() {
         System.out.println("**** operacaoMedias ****");
-        int nota1 = 5, nota2 = 5, nota3 = 5, nota4 = 5;
+        int nota1 = 7, nota2 = 7, nota3 = 8, nota4 = 6;
 
         int total = nota1 + nota2 + nota3 + nota4;
 
