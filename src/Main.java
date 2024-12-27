@@ -11,7 +11,7 @@ public class Main {
 
         int media = total / 4;
 
-        if (media > 7) {
+        if (media >= 7) {
             System.out.println("Parabéns você passou");
         } else {
             System.out.println("Não foi dessa vez, refaça a tarefa");
